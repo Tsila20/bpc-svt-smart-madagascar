@@ -1,0 +1,5 @@
+{
+  "name": "BPC SVT Smart Madagascar",
+  "description": "Application éducative intelligente pour la préparation du BPC SVT à Madagascar. Réviser, Comprendre, Réussir.",
+  "requestFramePermissions": ["camera"]
+}
